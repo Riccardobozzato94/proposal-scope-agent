@@ -1,0 +1,9 @@
+name = "proposal-scope-agent"
+main = "src/index.ts"
+compatibility_date = "2026-11-13"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ai-projects"
+database_id = "5b29712b-5107-4587-8da2-3a0a34babc53"
